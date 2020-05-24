@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo contains drive code of recently released model, i.e., YOLOv4.
+This repo contains drive code of a recently released model, i.e., YOLOv4.
 
 ## Rescription
 
