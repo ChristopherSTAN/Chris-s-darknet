@@ -42,7 +42,7 @@ $ python voc_label.py
 2. **yolov4-mse.weights**:https://drive.google.com/open?id=1znVte9XIyWjUGbzh1Cif8IWG4jxswn5L
 3. **yolov4-giou.weights**:https://drive.google.com/open?id=1TTZ5Q_mJ4DYfJBp_DnoZXSMGbAJ7zIcn
 4. **yolov4-iou.weights**:
-5. (pretrained)**yolov4.conv.137**: https://drive.google.com/open?id=1N7_Gea1gol6ZaGfB8XBnreaeH3D9vZ6f
+5. (Train-from-scratch)**yolov4.conv.137**: https://drive.google.com/open?id=1N7_Gea1gol6ZaGfB8XBnreaeH3D9vZ6f
 
 
 
