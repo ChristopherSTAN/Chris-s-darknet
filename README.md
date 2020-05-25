@@ -95,9 +95,9 @@ Optional NMS are:
 2. cornersnms
 3. diounms
 
-### Test with different `IOU_threshold`:
+### Test with different `IoU threshold`:
 
-The default `IOU_threshold` is set to 0.5. If want to test with different `IOU_threshold`, e.g., 0.75, run:
+The default `iou_thresh` is set to 0.5. If want to test with different `iou_thresh`, e.g., 0.75, run:
 
 ```
 $ ./build-release/darknet detector map cfg/voc.data cfg/yolov4-ciou.cfg backup2/yolov4-ciou.weights -dont_show -map -iou_thresh 0.75
