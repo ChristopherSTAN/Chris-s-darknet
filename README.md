@@ -48,6 +48,7 @@ $ python voc_label.py
 
 
 ## Train
+Before you start train or test, make sure you are at the folder`Chris-s-darknet`.
 
 First, place model file in folder you like. Below, I place in `./weights`. By running one of following lines, a loss plot will be saved in current folder with name like `chart_yolov4-ciou.png`:
 
