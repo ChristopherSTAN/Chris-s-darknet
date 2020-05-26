@@ -69,7 +69,7 @@ $ ./build-release/darknet detector train cfg/voc.data cfg/yolov4-ciou.cfg weight
 ### IOU loss
 
 ```
-./build-release/darknet detector train cfg/voc.data cfg/yolov4-iou.cfg weights/yolov4.conv.137 -dont_show -map
+$ ./build-release/darknet detector train cfg/voc.data cfg/yolov4-iou.cfg weights/yolov4.conv.137 -dont_show -map
 ```
 
 
